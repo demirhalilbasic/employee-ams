@@ -1,0 +1,58 @@
+[
+  {
+    "ticketId": "f12e4d0b-5c79-4fbb-9d36-00b5b7b0e6b4",
+    "employeeId": "7f36c7d2-d9f4-497e-9897-d5e5c1a4a92b",
+    "dateTime": "2025-01-01 19:00:00",
+    "category": "User Interface Issue",
+    "description": "Updated issue related to User Interface Issue.",
+    "status": "In Progress"
+  },
+  {
+    "ticketId": "e98ad7a8-8c14-4c9d-8d3e-1257d92ef451",
+    "employeeId": "f8193b57-7a1f-442b-8e3f-4a7e8f8d9c27",
+    "dateTime": "2025-01-01 19:30:00",
+    "category": "Functionality Issue",
+    "description": "Updated issue related to Functionality Issue.",
+    "status": "Not Resolved"
+  },
+  {
+    "ticketId": "a13c9e2d-1f65-4fbb-9d3d-29b5c5b0e7c5",
+    "employeeId": "7f36c7d2-d9f4-497e-9897-d5e5c1a4a92b",
+    "dateTime": "2025-01-01 20:00:00",
+    "category": "Performance Issue",
+    "description": "Updated issue related to Performance Issue.",
+    "status": "In Progress"
+  },
+  {
+    "ticketId": "d13d8e1a-4c79-4fcb-8d3d-00c5c3b0d4d3",
+    "employeeId": "2b1d9f59-cb3a-4d90-9f76-2c2fa615dfab",
+    "dateTime": "2025-01-01 20:30:00",
+    "category": "Other",
+    "description": "Updated issue related to Other.",
+    "status": "Not Resolved"
+  },
+  {
+    "ticketId": "084d0efc-c2eb-4682-a8cf-8de9f8af26b2",
+    "employeeId": "7c4b2d80-f01a-4fbb-bbbc-b1c8bffbdf62",
+    "dateTime": "2025-01-01 14:10:00",
+    "category": "Functionality Issue",
+    "description": "Newly added ticket for testing purposes.",
+    "status": "Not Resolved"
+  },
+  {
+    "ticketId": "031cf650-321f-4e89-a329-eabb45dc1a77",
+    "employeeId": "3d4f1b96-20ab-4424-bec0-ffddfa5b8f10",
+    "dateTime": "2025-01-01 14:49:00",
+    "category": "Other",
+    "description": "Newly added ticket for testing purposes.",
+    "status": "Resolved"
+  },
+  {
+    "ticketId": "b26464fa-3082-4024-b996-357519c5b1cf",
+    "employeeId": "e8f23c7d-b0d9-44e1-9fd4-1db7d7d8b5a2",
+    "dateTime": "2025-01-01 16:50:00",
+    "category": "Performance Issue",
+    "description": "Newly added ticket for testing purposes.",
+    "status": "Resolved"
+  }
+]
